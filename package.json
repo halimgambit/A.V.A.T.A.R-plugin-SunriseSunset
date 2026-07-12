@@ -1,0 +1,12 @@
+{
+    "name": "SunriseSunset",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin SunriseSunset for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "SunriseSunset"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }
