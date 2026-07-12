@@ -1,0 +1,7 @@
+{
+   "speech": {
+      "sunrise": "Le soleil se lève à $$.",
+      "sunset": "Le soleil se couche à $$.",
+      "error": "Erreur lever et coucher du soleil."
+   }
+}

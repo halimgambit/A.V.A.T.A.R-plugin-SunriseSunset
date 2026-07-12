@@ -1,0 +1,7 @@
+{
+   "speech": {
+      "air": "In $$, the outdoor air quality is $$, with an index of $$.",
+      "errorHttp": "HTTP error.",
+      "errorAccess": "I can't retrieve the air quality."
+   }
+}
