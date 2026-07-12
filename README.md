@@ -21,7 +21,7 @@ The `SunriseSunset` plugin relies solely on the system's available languages.
     <td style="border: none;"><img src="SunriseSunset/assets/images/SunriseSunset.png" alt="SunriseSunset Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">SunriseSunset</h1>
-      <h3 style="margin: 0;">Get Weather</h3>
+      <h3 style="margin: 0;">Give Sunrise and Sunset</h3>
     </td>
   </tr>
 </table>
